@@ -1,0 +1,26 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+*.userprefs
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.unityproj
+Build/
+*.psd
+*.fbx
+*.png
+*.wav
+*.mp3
+!.gitignore
